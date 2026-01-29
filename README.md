@@ -29,10 +29,22 @@ Containerization: Fully Dockerized for seamless deployment across different envi
 📋 Async Task Manager: A robust Todo system that handles tasks without blocking the main UI thread.
 
 📥 Installation & Usage[Ekran kaydı - 2026-01-29 22-42-24.webm](https://github.com/user-attachments/assets/f9197641-725c-4406-abef-0c927536c367)
+
+
 [Ekran kaydı - 2026-01-29 22-40-22.webm](https://github.com/user-attachments/assets/533717a4-e056-4007-b661-7a359e857d75)
+
+
 [Ekran kaydı - 2026-01-29 21-30-26.webm](https://github.com/user-attachments/assets/9ae4feec-8da5-42c9-a130-d7d8c3884acd)
+
+
 [Ekran kaydı - 2026-01-29 21-29-11.webm](https://github.com/user-attachments/assets/df5dd0d1-8dfe-4597-9a32-ac50db5793ee)
+
+
+
 [Ekran kaydı - 2026-01-29 21-28-30.webm](https://github.com/user-attachments/assets/e03e3346-06b8-4bee-9b14-9dbc827ed842)
+
+
+
 
 Bash
 # Clone the repository
