@@ -78,4 +78,6 @@ docker run -p 8501:8501 modular-ai-assistant
 pip install -r requirements.txt
 streamlit run app.py
 👨‍💻 Developer / Geliştirici
+
+
 Metin Mert Turan - Artificial Intelligence Engineering Student
