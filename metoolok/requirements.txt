@@ -1,0 +1,5 @@
+streamlit
+aiohttp
+requests
+PyPDF2
+python-dotenv

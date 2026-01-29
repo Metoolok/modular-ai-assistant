@@ -1,0 +1,34 @@
+{
+  "last_uploaded_file": null,
+  "last_action": "fitness",
+  "last_result": "✅ **Hedef belirlendi:** fitness hedef :kas kazanımı\n\n💡 Şimdi önerilen kalorini öğren: `fitness kalori`\n🏋️ Antrenman programı için: `fitness program`",
+  "conversation_history": [
+    {
+      "user": "fitness",
+      "assistant": "### 💪 Metoolok Fitness - Kullanım Kılavuzu\n\n**🎯 Başlangıç:**\n`fitness profil` - İlk kurulum rehberi\n`fitness vki boy:175 kilo:70` - VKI/BMI hesapla\n`fitness hedef:yağ yakımı` - Hedef belirle\n\n**📊 Hesaplamalar:**\n`fitness kalori` - Günlük kalori ve makro hesapla\n`fitness program` - Antrenman programı öner\n\n**📝 Veri Girişi:**\n`fitness add:protein 150g` - Günlük protein kaydet\n`fitness add:su 3litre` - Su tüketimi kaydet\n`fitness add:kilo 72.5` - Kilo güncelle\n\n**📈 Raporlar:**\n`fitness show` - Tüm verileri göster\n`fitness ilerleme` - Kilo grafiği ve ilerleme\n\n💡 *Her komutta 'fitness' ön ekini kullan!*"
+    },
+    {
+      "user": "fitness profil",
+      "assistant": "### 👤 Profil Oluşturma Rehberi\n\n**Adım 1:** Temel bilgilerini gir:\n`fitness add:yaş 25`\n`fitness add:cinsiyet erkek` (veya kadın)\n`fitness add:aktivite orta` (düşük/orta/yüksek)\n\n**Adım 2:** VKI hesapla:\n`fitness vki boy:175 kilo:70`\n\n**Adım 3:** Hedef belirle:\n`fitness hedef:yağ yakımı` (veya kas kazanımı/kilo alma)\n\n💡 Sonra `fitness show` ile tüm bilgilerini görebilirsin!"
+    },
+    {
+      "user": "fitness show",
+      "assistant": "### 📋 Fitness Profilin\n\n**👤 Profil:**\n- Hedef: **fitness hedef yağ yakımı**\n\n\n💡 **Komutlar:** `fitness kalori`, `fitness program`, `fitness ilerleme`"
+    },
+    {
+      "user": "fitness hedef",
+      "assistant": "✅ **Hedef belirlendi:** fitness hedef\n\n💡 Şimdi önerilen kalorini öğren: `fitness kalori`\n🏋️ Antrenman programı için: `fitness program`"
+    },
+    {
+      "user": "fitness hedef :kas kazanımı",
+      "assistant": "✅ **Hedef belirlendi:** fitness hedef :kas kazanımı\n\n💡 Şimdi önerilen kalorini öğren: `fitness kalori`\n🏋️ Antrenman programı için: `fitness program`"
+    }
+  ],
+  "fitness_metrics": {
+    "hedef": {
+      "2026-01-29": "fitness hedef :kas kazanımı"
+    }
+  },
+  "todo_list": [],
+  "last_weather_city": "bursa"
+}
