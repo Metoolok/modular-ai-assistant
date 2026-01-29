@@ -1,6 +1,4 @@
-Anladım Mert, şimdi işi gerçekten profesyonel bir mühendislik dökümantasyonuna çeviriyoruz. Projenin mimarisinden skill yapısına kadar her şeyi kapsayan, GitHub sayfanı inceleyen birinin "bu adam ne yaptığını biliyor" diyeceği o dökümanı hazırladım.
 
-Aşağıdaki metni olduğu gibi kopyalayıp README.md dosyana yapıştırabilirsin.
 
 🤖 Modular AI Personal Assistant: Metoolok Engine
 🌍 Language / Dil
