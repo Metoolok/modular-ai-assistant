@@ -1,8 +1,8 @@
 
 
 🤖 Modular AI Personal Assistant: Metoolok Engine
-🌍 Language / Dil
-English Description | Türkçe Açıklama
+
+
 
 <a name="english-description"></a>
 
